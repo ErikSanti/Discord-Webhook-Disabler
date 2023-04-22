@@ -12,3 +12,6 @@ This .py file can disable webhook, send a message, and know the token.
 -Put your webhook
 -Message your webhook
 -Then if you want to delete de webhook put "s" if not "n"
+
+
+I am not responsible for the misuse of this file.
